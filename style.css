@@ -1,12 +1,12 @@
 .contact {
     margin: 0;
     padding: 0;
+    display: inline;
     list-style-type: none;
 }
 
 .contacts li {
     width: 30px;
-    display: inline;
     padding: 20px 10px;
 }
 

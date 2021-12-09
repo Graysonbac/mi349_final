@@ -1,15 +1,7 @@
-.contact {
-    margin: 0;
-    padding: 0;
+ul.contact li {
     display: inline;
     list-style-type: none;
-}
-
-.contacts li {
-    width: 30px;
-    padding: 20px 10px;
-}
-
-.header {
-    display: flex;
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 2px;
 }

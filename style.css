@@ -1,7 +1,6 @@
 ul.contact li {
     display: inline;
     list-style-type: none;
-    border: 1px solid #000;
     margin: 5px;
     padding: 2px;
 }

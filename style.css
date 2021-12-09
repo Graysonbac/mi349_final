@@ -6,7 +6,7 @@
 
 .contacts li {
     width: 30px;
-    display: inline-block;
+    display: inline;
     padding: 20px 10px;
 }
 

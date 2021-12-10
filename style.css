@@ -47,8 +47,6 @@ ul.contact li {
     grid-column: 2;
     grid-row: auto;
     margin-left: 0px;
-    height: 80%;
-    width: 80%;
 }
 
 .sectionHeader {

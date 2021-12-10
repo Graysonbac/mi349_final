@@ -32,7 +32,7 @@ ul.contact li {
 .contentBody {
     grid-column: 1;
     width: 300px;
-    margin-left: 20x;
+    margin-left: 40x;
     margin-bottom: 100px;
     font-size: 24px;
     grid-row: auto;

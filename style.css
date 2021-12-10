@@ -39,4 +39,5 @@ ul.contact li {
 .contentImage {
     grid-column: 2;
     grid-row: auto;
+    margin-right: 100px;
 }

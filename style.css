@@ -72,4 +72,9 @@ p {
 
 body {
     background-color: cadetblue;
+    font-family: Helvetica, sans-serif;
+}
+
+form {
+    margin: 0 auto;
 }

@@ -54,10 +54,10 @@ ul.contact li {
 .EndoImage {
     grid-column: 2;
     grid-row: auto;
-    height: 600px;
-    width: 400px;
+    height: 550px;
+    width: 350px;
     margin-bottom: 30px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 .sectionHeader {

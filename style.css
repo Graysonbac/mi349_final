@@ -33,7 +33,7 @@ ul.contact li {
     grid-column: 1;
     width: 300px;
     margin-left: 5px;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
     font-size: 24px;
     grid-row: auto;
 }

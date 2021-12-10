@@ -18,3 +18,7 @@ ul.contact li {
     box-shadow: rgba(0,0,0, 0.1) 0 0 20px;
     border: 1px solid #aaa;
 }
+
+.headshot {
+    float: right;
+}

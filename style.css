@@ -43,6 +43,14 @@ ul.contact li {
     margin-left: 100px;
 }
 
+.MailSnailImage {
+    grid-column: 2;
+    grid-row: auto;
+    margin-left: 0px;
+    height: 80%;
+    width: 50%;
+}
+
 .sectionHeader {
     text-align: center;
     font-size: 48px;

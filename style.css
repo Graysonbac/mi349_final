@@ -5,6 +5,9 @@ ul.contact li {
     padding: 2px;
 }
 
+.header {
+    border-bottom: 3px black;
+}
 
 .pageTitle {
     font-size: 48px;

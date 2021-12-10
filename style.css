@@ -19,5 +19,21 @@ ul.contact li {
     box-shadow: rgba(0,0,0, 0.1) 0 0 20px;
     border: 1px solid #aaa;
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
 }
 
+.contentTitle {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.contentBody {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.contentImage {
+    grid-column: 2;
+    grid-row: 1;
+}

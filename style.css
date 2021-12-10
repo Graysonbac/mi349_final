@@ -56,6 +56,8 @@ ul.contact li {
     grid-row: auto;
     height: 500px;
     width: 300px;
+    margin-bottom: 30px;
+    margin-left: 100px;
 }
 
 .sectionHeader {

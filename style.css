@@ -5,6 +5,7 @@ ul.contact li {
     padding: 2px;
 }
 
+
 .pageTitle {
     font-size: 48px;
     text-align: center;
@@ -19,6 +20,3 @@ ul.contact li {
     border: 1px solid #aaa;
 }
 
-.headshot {
-    float: right;
-}

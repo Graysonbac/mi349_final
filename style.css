@@ -18,5 +18,6 @@ ul.contact li {
     width: 800px;
     box-shadow: rgba(0,0,0, 0.1) 0 0 20px;
     border: 1px solid #aaa;
+    display: flex;
 }
 

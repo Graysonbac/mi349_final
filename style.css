@@ -32,7 +32,6 @@ ul.contact li {
 .contentBody {
     grid-column: 1;
     width: 300px;
-    margin-left: 1in;
     margin-bottom: 100px;
     font-size: 24px;
     grid-row: auto;
@@ -47,4 +46,8 @@ ul.contact li {
 .sectionHeader {
     text-align: center;
     font-size: 48px;
+}
+
+p {
+    margin-left: 20px;
 }

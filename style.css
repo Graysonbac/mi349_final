@@ -3,6 +3,7 @@ ul.contact li {
     list-style-type: none;
     margin: 5px;
     padding: 2px;
+    background-color: aliceblue;
 }
 
 .header {

@@ -3,12 +3,11 @@ ul.contact li {
     list-style-type: none;
     margin: 5px;
     padding: 2px;
-    
+
 }
 
 .header {
     border-bottom: 3px solid black;
-    border-top: 20px solid white;
 }
 
 .pageTitle {
